@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
@@ -8,7 +8,7 @@
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/java_jars_and_other/jakarta.servlet-api-5.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/java_jars_and_other/mysql-connector-j-9.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/java_essentials/jakarta.servlet-api-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/java_essentials/mysqljdbcdriver/mysql-connector-j-9.3.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
